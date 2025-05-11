@@ -11,3 +11,5 @@ what i have built from scratch:
     - i want to learn about how the attention mechanism works so i made a transformers model from scrach
 
 thats all from scratch 
+
+i didn't train the model because of the hardware issue but you can do it if you want all code is there
